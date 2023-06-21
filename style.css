@@ -1,0 +1,40 @@
+* {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+article {
+  margin-left: 390px;
+  margin-right: 390px;
+}
+
+button {
+  border: none;
+  color: green;
+}
+
+h1,
+i {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+a {
+  color: black;
+}
+
+.first-section {
+  display: flex;
+  align-items: center;
+}
+
+.vertical {
+  border: 0;
+  margin-right: 10px;
+  border-left: 4px solid;
+  height: 100px;
+  float: left;
+}
