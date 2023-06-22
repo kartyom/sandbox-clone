@@ -4,8 +4,8 @@
 }
 
 article {
-  margin-left: 390px;
-  margin-right: 390px;
+  width: 700px;
+  margin: 0 auto;
 }
 
 button {
